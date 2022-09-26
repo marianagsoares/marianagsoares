@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @marianagsoares 
-- 👀 I’m interested in ...
 - 🌱 I’m currently doing a Java FullStack's Bootcamp at SoulCode Academy
 - 📫 How to reach me: Linkedin Profile https://www.linkedin.com/in/mariana-galindo-391413220/ 
 
