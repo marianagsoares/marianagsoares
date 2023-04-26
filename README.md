@@ -5,7 +5,7 @@
 <div style="display: inline_block">
 
   <p width="100"> 👋 Hi, I’m Mariana Galindo </p>
- <p width="100"> 🎓 Currently, I am studying a Bachelor's degree in Information Systems at XP Education. </p>
+ <p width="100"> 🎓 Currently, I am studying a Bachelor's degree in Information Systems at XP Educação. </p>
  <p width="100">  🔍 I am looking for my first opportunity as a developer and I have been developing projects for my portfolio to improve my technical skills. </p>
 </div>
 </div>
