@@ -28,6 +28,17 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/                      
 </div>  
 
+  <div style="display: inline_block">
+  
+  <div align="center">
+  
+  ### My soft skills
+    
+   <p> ✨ I'm a detail-oriented person and I really enjoy working with a team. My colleagues often say that I have good and effective communication skills and because of it I had the opportunity to be a monitor in the first bootcamp that I participated in 2022. ✨</p>
+  
+</div>
+</div>
+  
   
 <div align="center">
     
