@@ -5,8 +5,6 @@
 <div style="display: inline_block">
 
   <p width="100"> 👋 Hi, I’m Mariana Galindo </p>
- <p width="100"> 🎓 Currently, I am studying a Bachelor's degree in Information Systems at XP Educação. </p>
- <p width="100">  🔍 I am looking for my first opportunity as a developer and I have been developing projects for my portfolio to improve my technical skills. </p>
 </div>
 </div>
 
@@ -35,7 +33,7 @@
   
   ### My soft skills
     
-   <p> ✨ I'm a detail-oriented person and I really enjoy working with a team. My colleagues often say that I have good and effective communication skills and because of it I had the opportunity to be a monitor in the first bootcamp that I participated in 2022. ✨</p>
+   <p> ✨ I'm a transition career professional and  I am undertaking a bachelor degree in Information Systems. In my previous work experiences, I have improved my negotiation and communication skills dealing with the public in a daily basis. As a front-end developer volunteer, I have improved my problem solving and teamwork skills. In a recent QA bootcamp I stood out due to my commitment to the development of the entire team and my English knowledge. Currently I am looking for a QA position in a tech-leading company which will allow me to  further my expertise in software testing.✨</p>
   
 </div>
 </div>
