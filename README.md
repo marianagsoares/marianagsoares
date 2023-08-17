@@ -4,7 +4,7 @@
 
 <div style="display: inline_block">
 
-  <p width="100"> 👋 Hi, I’m Mariana Galindo </p>
+  <p width="100"> 👋 Hello, I’m Mariana Galindo and I appreciate your visit to my portfolio!</p>
 </div>
 </div>
 
