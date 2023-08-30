@@ -35,7 +35,7 @@
   
   ### My soft skills
     
-   <p> ✨ I'm a transition career professional and  I am undertaking a bachelor degree in Information Systems. In my previous work experiences, I have improved my negotiation and communication skills dealing with the public in a daily basis. As a front-end developer volunteer, I have improved my problem solving and teamwork skills. In a recent QA bootcamp I stood out due to my commitment to the development of the entire team and my English knowledge. Currently I am looking for a QA position in a tech-leading company which will allow me to  further my expertise in software testing.✨</p>
+   <p> ✨ I'm a transition career professional and  I am undertaking a bachelor degree in Information Systems. In my previous work experiences, I have improved my negotiation and communication skills dealing with the public in a daily basis. As a front-end developer volunteer, I have improved my problem solving and teamwork skills. In a recent QA bootcamp I stood out due to my commitment to the development of the entire team and my English knowledge.✨</p>
   
 </div>
 </div>
