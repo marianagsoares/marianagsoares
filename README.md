@@ -35,7 +35,7 @@
   
   ### My soft skills
     
-   <p> ✨ I'm a transition career professional and  I am undertaking a bachelor degree in Information Systems. In my previous work experiences, I have improved my negotiation and communication skills dealing with the public in a daily basis. As a front-end developer volunteer, I have improved my problem solving and teamwork skills. In a recent QA bootcamp I stood out due to my commitment to the development of the entire team and my English knowledge.✨</p>
+   <p> ✨I am a student pursuing a Bachelor's degree in Information Systems at XP Education, currently undergoing a career transition from the healthcare field to technology. Throughout this journey, I have participated in intensive bootcamps in web development and quality analysis to enhance my skills. I am currently working as a freelance QA tester at Crowdtest and TesterWork, as well as serving as a QA Facilitator at the Institute Joga Junto. I am an analytical individual with strong teamwork skills and adaptability. Effective communication is a value I uphold both personally and professionally. My primary goal is to secure an opportunity in the field of QA and build a solid career at a company that offers growth prospects.✨</p>
   
 </div>
 </div>
