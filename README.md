@@ -35,7 +35,7 @@
   
   ### My soft skills
     
-   <p> ✨I am a student pursuing a Bachelor's degree in Information Systems at XP Education, currently undergoing a career transition from the healthcare field to technology. Throughout this journey, I have participated in intensive bootcamps in web development and quality analysis to enhance my skills. I am currently working as a freelance QA tester at Crowdtest and TesterWork, as well as serving as a QA Facilitator at the Institute Joga Junto. I am an analytical individual with strong teamwork skills and adaptability. Effective communication is a value I uphold both personally and professionally. My primary goal is to secure an opportunity in the field of QA and build a solid career at a company that offers growth prospects.✨</p>
+   <p> ✨I am a student pursuing a Bachelor's degree in Information Systems at XP Education, currently undergoing a career transition from the healthcare field to technology. Throughout this journey, I have participated in intensive bootcamps in web development and quality analysis to enhance my skills. I am currently working as a freelance QA tester at Crowdtest and TesterWork, as well as serving as a QA Facilitator at the Instituto Joga Junto. I am an analytical individual with strong teamwork skills and adaptability. Effective communication is a value I uphold both personally and professionally. My primary goal is to secure an opportunity in the field of QA and build a solid career at a company that offers growth prospects.✨</p>
   
 </div>
 </div>
