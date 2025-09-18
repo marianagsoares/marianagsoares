@@ -17,25 +17,21 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="55" height="55" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/
- <img serc=https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png>
 </div>  
 
   <div style="display: inline_block">
   
   <div align="center">
   
-  ### My soft skills
+  ### My skills
     
-   <p> ✨I am a student pursuing a Bachelor's degree in Information Systems at XP Education, currently undergoing a career transition from the healthcare field to technology. Throughout this journey, I have participated in intensive bootcamps in web development and quality analysis to enhance my skills. I am currently working as a freelance QA tester at Crowdtest and TesterWork, as well as serving as a QA Facilitator at the Instituto Joga Junto. I am an analytical individual with strong teamwork skills and adaptability. Effective communication is a value I uphold both personally and professionally. My primary goal is to secure an opportunity in the field of QA and build a solid career at a company that offers growth prospects.✨</p>
+   <p> ✨I am from Recife, Pernambuco, and I have been working as a QA for almost 3 years. I started in the field in 2023 as an intern, where I worked exclusively with functional testing and bug reporting. Later, I moved to a Junior QA role, where I expanded my responsibilities to include both manual and automated API testing (Postman and Cypress). From that point on, I gained greater experience with project management tools such as Azure and Jira, as well as working with relational and non-relational databases (MySQL and MongoDB).✨</p>
   
 </div>
 </div>
