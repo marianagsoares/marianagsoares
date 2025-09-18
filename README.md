@@ -27,8 +27,6 @@
   <div style="display: inline_block">
   
   <div align="center">
-  
-  ### My skills
     
    <p> ✨I am from Recife, Pernambuco, and I have been working as a QA for almost 3 years. I started in the field in 2023 as an intern, where I worked exclusively with functional testing and bug reporting. Later, I moved to a Junior QA role, where I expanded my responsibilities to include both manual and automated API testing (Postman and Cypress). From that point on, I gained greater experience with project management tools such as Azure and Jira, as well as working with relational and non-relational databases (MySQL and MongoDB).✨</p>
   
